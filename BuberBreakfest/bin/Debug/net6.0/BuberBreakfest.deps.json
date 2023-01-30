@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BuberBreakfest/1.0.0": {
+        "dependencies": {
+          "BuberBreakFast.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "BuberBreakfest.dll": {}
+        }
+      },
+      "BuberBreakFast.Contracts/1.0.0": {
+        "runtime": {
+          "BuberBreakFast.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuberBreakfest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuberBreakFast.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

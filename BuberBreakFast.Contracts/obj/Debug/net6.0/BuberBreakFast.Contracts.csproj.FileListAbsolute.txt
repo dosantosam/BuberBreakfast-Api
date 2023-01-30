@@ -1,0 +1,12 @@
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.deps.json
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.dll
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\ref\BuberBreakFast.Contracts.dll
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.pdb
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.csproj.AssemblyReference.cache
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.AssemblyInfoInputs.cache
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.AssemblyInfo.cs
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.dll
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\ref\BuberBreakFast.Contracts.dll
+C:\Users\joao1\Documentos\Projeto e treino C#\Web development\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.pdb

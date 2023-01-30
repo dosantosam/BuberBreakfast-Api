@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BuberBreakFast.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BuberBreakFast.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberBreakFast.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuberBreakFast.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../BuberBreakFast.Contracts/BuberBreakFast.Contracts.csproj",
+      "msbuildProject": "../BuberBreakFast.Contracts/BuberBreakFast.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BuberBreakFast.Contracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\joao1\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\joao1\\Documentos\\Projeto e treino C#\\Web development\\BuberBreakfast\\BuberBreakfest\\BuberBreakfest.csproj",
+      "projectName": "BuberBreakfest",
+      "projectPath": "C:\\Users\\joao1\\Documentos\\Projeto e treino C#\\Web development\\BuberBreakfast\\BuberBreakfest\\BuberBreakfest.csproj",
+      "packagesPath": "C:\\Users\\joao1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joao1\\Documentos\\Projeto e treino C#\\Web development\\BuberBreakfast\\BuberBreakfest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\joao1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\joao1\\Documentos\\Projeto e treino C#\\Web development\\BuberBreakfast\\BuberBreakFast.Contracts\\BuberBreakFast.Contracts.csproj": {
+              "projectPath": "C:\\Users\\joao1\\Documentos\\Projeto e treino C#\\Web development\\BuberBreakfast\\BuberBreakFast.Contracts\\BuberBreakFast.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.113\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
